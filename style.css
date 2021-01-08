@@ -1,0 +1,34 @@
+body{
+    background-image: url(img/hatter.jpg);
+    font-family:'Segoe UI'
+}
+.cím{
+    margin: -25px auto;
+    display: block;
+    background-image:url(img/fejlec.jpg);background-repeat: no-repeat;width: 760px;height:114px;
+    text-align: center;
+    font-size: 17px;   
+    color:#606060
+}
+.szöveg{
+    background-image: url(img/tartalomkep.jpg);background-repeat: no-repeat;background-color:#FFFFFF; background-position: top right;width:561px; height:600px;
+    color: #484848;
+    margin-left: -10px; margin-top:auto; margin-right:10px;
+}
+.elerhetoseg{
+    background-color: #E8E8E8;height:478px;width:205px;
+    margin-right:-10px;margin-left:10px
+}
+.piros{
+    text-indent: 30px;
+    color:#800000
+}
+table{
+    margin: -20px auto;
+}  
+.kép{
+    margin-right: 5px;margin-left:10px
+}
+h2{
+    text-indent: 10px;
+}
